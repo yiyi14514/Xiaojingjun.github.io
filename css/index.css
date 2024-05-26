@@ -1,0 +1,103 @@
+body {
+    margin: 0;   保证金:0;
+    padding: 0;   填充:0;
+    font-family: 'Arial', sans-serif;font-family:宋体;
+    background-color: #add8e6;
+}
+#biaotou1 {
+    position: fixed;   位置:固定;
+    top: 0px;   上图:0 px;
+    height: 40px;   高度:40像素;
+    width: 100%;    宽度:100%;
+    background-color: black;   背景颜色:黑色;
+    color: white;   颜色:白色;
+    font-size: 30px;   字体大小:30 px;
+    background-image: linear-gradient(to right, #00FFFF, #0000FF);background-image:线性渐变(右，#00FFFF， #0000FF);
+}
+#title1 {
+    color: white;   颜色:白色;
+    text-align: center;   text-align:中心;
+    background-image: linear-gradient(to right, #FFFF00, #FFA500);background-image:线性渐变(向右，#FFFF00， #FFA500);
+    margin: 0;   保证金:0;
+    padding: 0;   填充:0;
+}
+#zuozhe {
+    text-align: center;   text-align:中心;
+}
+/*正文部分1：前言*/
+#zhengwen1 {
+    color: black;   颜色:黑色;
+    background-color: white;   背景颜色:白色;
+    font-size: 20px;   字体大小:20 px;
+    border: 8px solid orange;   边框:8px纯橙色;
+}
+#zhengwen1 .title{
+    text-align: center;   text-align:中心;
+    font-size: 30px;   字体大小:30 px;
+}
+/*正文部分1：前言*/
+
+/*正文部分2：导航*/
+#zhengwen2 {
+    color: black;   颜色:黑色;
+    background-color: white;   背景颜色:白色;
+    font-size: 20px;   字体大小:20 px;
+    border: 8px solid blue;       边框:8px纯蓝色;
+}
+#zhengwen2 .title {
+    text-align: center;   text-align:中心;
+    font-size: 30px;    
+}
+#zhengwen2 .klpbbs {
+    width: 200px; /* 设置按钮的宽度 */ 
+    height: 50px; /* 设置按钮的高度 */ 
+    padding: 10px; /* 设置内边距 */ 
+    font-size: 16px; /* 设置文字大小 */ 
+    border: 2px solid #FFFACD; /* 设置边框样式和颜色 */ 
+    border-radius: 25px; /* 设置边框角的半径 */
+    background-color: #FFA500;
+    margin-left: 75px; /* 设置按钮距离左侧100像素 */
+}
+#zhengwen2 .yuanchuang {
+    width: 200px; /* 设置按钮的宽度 */ 
+    height: 50px; /* 设置按钮的高度 */ 
+    padding: 10px; /* 设置内边距 */ 
+    font-size: 16px; /* 设置文字大小 */ 
+    border: 2px solid #FFFACD; /* 设置边框样式和颜色 */ 
+    border-radius: 25px; /* 设置边框角的半径 */
+    background-color: #FFA500;
+    margin-left: 75px; /* 设置按钮距离左侧100像素 */
+}
+#zhengwen2 .zhuanzai {
+    width: 200px; /* 设置按钮的宽度 */ 
+    height: 50px; /* 设置按钮的高度 */ 
+    padding: 10px; /* 设置内边距 */ 
+    font-size: 16px; /* 设置文字大小 */ 
+    border: 2px solid #FFFACD; /* 设置边框样式和颜色 */ 
+    border-radius: 25px; /* 设置边框角的半径 */
+    background-color: #FFA500;
+    margin-left: 75px; /* 设置按钮距离左侧100像素 */
+}
+#zhengwen2 .youzhi {
+    width: 200px; /* 设置按钮的宽度 */ 
+    height: 50px; /* 设置按钮的高度 */ 
+    padding: 10px; /* 设置内边距 */ 
+    font-size: 16px; /* 设置文字大小 */ 
+    border: 2px solid #FFFACD; /* 设置边框样式和颜色 */ 
+    border-radius: 25px; /* 设置边框角的半径 */
+    background-color: #FFA500;
+    margin-left: 75px; /* 设置按钮距离左侧100像素 */
+}
+/*正文部分2：导航*/
+
+#jiewei {
+    color: white;
+    background-color: black;
+    font-size: 20px;
+    border: 8px solid black;
+}
+#jiewei .title {
+    text-align: center;
+    font-size: 30px;
+}
+
